@@ -18,4 +18,4 @@ Python Program Installation and Execution Guide
         pip install -r requirements.txt
 
     Execute the Python script:
-        python test_obs.py  
+        python test1.py  
